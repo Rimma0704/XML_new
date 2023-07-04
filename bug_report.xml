@@ -8,7 +8,6 @@
 <step_2>Hover over Menu section [More]</step_2>
 <step_3>Click Menu item [Anti-money laundering]</step_3>
 <step_4>Scroll to the block "Better safe than sorry!"</step_4>
-<step_5>Нажать кнопку отправки заказа</step_5>
 <result_1Actual Result: Missing block name and button name in this block</result_1>
 <result_2>Expected Result: The block and the button in this block have names</result_2>
 
